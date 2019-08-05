@@ -1,0 +1,15 @@
+{
+    "products": [
+        {
+            "burger": {
+                "id": "1",
+                "title": "Clasic",
+                "image": "./burgeri/product/3.jpeg",
+                "price": "10",
+                "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi exercitationem animi blanditiis quod
+                consectetur quam, reprehenderit autem quisquam voluptas fugiat quis, dolorum fugit cupiditate, suscipit
+                tempore libero? Distinctio, nihil sed."
+            }
+        }
+    ]
+}
